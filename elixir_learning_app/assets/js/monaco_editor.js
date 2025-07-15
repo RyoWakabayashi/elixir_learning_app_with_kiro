@@ -1,4 +1,4 @@
-import * as monaco from "../vendor/monaco-editor/esm/vs/editor/editor.api.js";
+import * as monaco from "monaco-editor";
 
 // Configure Monaco Editor for Elixir syntax highlighting
 // Since Monaco doesn't have built-in Elixir support, we'll use a basic configuration

@@ -1,0 +1,19 @@
+{
+  "name": "elixir-learning-app-assets",
+  "version": "1.0.0",
+  "description": "Assets for Elixir Learning App",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build script placeholder'",
+    "dev": "echo 'Development script placeholder'"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.45.0",
+    "topbar": "^2.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
